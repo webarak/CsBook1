@@ -1,0 +1,8 @@
+F:\מדעי המחשב\p.158 t_11 a\p.158 t_11 a\bin\Debug\p.158 t_11 a.exe
+F:\מדעי המחשב\p.158 t_11 a\p.158 t_11 a\bin\Debug\p.158 t_11 a.pdb
+F:\מדעי המחשב\p.158 t_11 a\p.158 t_11 a\obj\x86\Debug\p.158 t_11 a.exe
+F:\מדעי המחשב\p.158 t_11 a\p.158 t_11 a\obj\x86\Debug\p.158 t_11 a.pdb
+F:\מדעי המחשב\p.158\p.158 t_11 a\obj\x86\Debug\p.158 t_11 a.exe
+F:\מדעי המחשב\p.158\p.158 t_11 a\obj\x86\Debug\p.158 t_11 a.pdb
+F:\מדעי המחשב\p.158\p.158 t_11 a\bin\Debug\p.158 t_11 a.exe
+F:\מדעי המחשב\p.158\p.158 t_11 a\bin\Debug\p.158 t_11 a.pdb

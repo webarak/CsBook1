@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.114\p.114\bin\Debug\p.114.exe
+F:\מדעי המחשב\p.114\p.114\bin\Debug\p.114.pdb
+F:\מדעי המחשב\p.114\p.114\obj\x86\Debug\p.114.exe
+F:\מדעי המחשב\p.114\p.114\obj\x86\Debug\p.114.pdb

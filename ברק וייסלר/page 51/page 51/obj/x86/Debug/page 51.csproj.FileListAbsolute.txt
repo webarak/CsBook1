@@ -1,0 +1,4 @@
+D:\ברק וייסלר\page 51\page 51\bin\Debug\page 51.exe
+D:\ברק וייסלר\page 51\page 51\bin\Debug\page 51.pdb
+D:\ברק וייסלר\page 51\page 51\obj\x86\Debug\page 51.exe
+D:\ברק וייסלר\page 51\page 51\obj\x86\Debug\page 51.pdb

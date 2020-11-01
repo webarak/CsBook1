@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.146\t_20\bin\Release\t_20.exe
+F:\מדעי המחשב\p.146\t_20\bin\Release\t_20.pdb
+F:\מדעי המחשב\p.146\t_20\obj\x86\Release\t_20.exe
+F:\מדעי המחשב\p.146\t_20\obj\x86\Release\t_20.pdb

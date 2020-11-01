@@ -1,0 +1,4 @@
+F:\מדעי המחשב\P.93\P.93\bin\Debug\P.93.exe
+F:\מדעי המחשב\P.93\P.93\bin\Debug\P.93.pdb
+F:\מדעי המחשב\P.93\P.93\obj\x86\Debug\P.93.exe
+F:\מדעי המחשב\P.93\P.93\obj\x86\Debug\P.93.pdb

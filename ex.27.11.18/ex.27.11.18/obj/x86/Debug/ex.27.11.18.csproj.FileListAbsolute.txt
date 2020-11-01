@@ -1,0 +1,5 @@
+F:\מדעי המחשב\ex.27.11.18\ex.27.11.18\bin\Debug\ex.27.11.18.exe
+F:\מדעי המחשב\ex.27.11.18\ex.27.11.18\bin\Debug\ex.27.11.18.pdb
+F:\מדעי המחשב\ex.27.11.18\ex.27.11.18\obj\x86\Debug\ex.27.11.18.csprojResolveAssemblyReference.cache
+F:\מדעי המחשב\ex.27.11.18\ex.27.11.18\obj\x86\Debug\ex.27.11.18.exe
+F:\מדעי המחשב\ex.27.11.18\ex.27.11.18\obj\x86\Debug\ex.27.11.18.pdb

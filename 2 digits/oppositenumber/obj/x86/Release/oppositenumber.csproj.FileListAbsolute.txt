@@ -1,0 +1,6 @@
+F:\2 digits\oppositenumber\bin\Release\oppositenumber.exe
+F:\2 digits\oppositenumber\bin\Release\oppositenumber.pdb
+F:\2 digits\oppositenumber\obj\x86\Release\oppositenumber.exe
+F:\2 digits\oppositenumber\obj\x86\Release\oppositenumber.pdb
+F:\מדעי המחשב\2 digits\oppositenumber\obj\x86\Release\oppositenumber.exe
+F:\מדעי המחשב\2 digits\oppositenumber\obj\x86\Release\oppositenumber.pdb

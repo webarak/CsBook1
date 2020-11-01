@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p_140\p_140\bin\Debug\p_140.exe
+F:\מדעי המחשב\p_140\p_140\bin\Debug\p_140.pdb
+F:\מדעי המחשב\p_140\p_140\obj\x86\Debug\p_140.exe
+F:\מדעי המחשב\p_140\p_140\obj\x86\Debug\p_140.pdb

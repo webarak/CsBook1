@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.82\p.82\bin\Debug\p.82.exe
+F:\מדעי המחשב\p.82\p.82\bin\Debug\p.82.pdb
+F:\מדעי המחשב\p.82\p.82\obj\x86\Debug\p.82.exe
+F:\מדעי המחשב\p.82\p.82\obj\x86\Debug\p.82.pdb

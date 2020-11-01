@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.173-174\t_6\bin\Release\t_6.exe
+F:\מדעי המחשב\p.173-174\t_6\bin\Release\t_6.pdb
+F:\מדעי המחשב\p.173-174\t_6\obj\x86\Release\t_6.exe
+F:\מדעי המחשב\p.173-174\t_6\obj\x86\Release\t_6.pdb

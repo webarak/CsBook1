@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.158\t_11 c\bin\Debug\t_11 c.exe
+F:\מדעי המחשב\p.158\t_11 c\bin\Debug\t_11 c.pdb
+F:\מדעי המחשב\p.158\t_11 c\obj\x86\Debug\t_11 c.exe
+F:\מדעי המחשב\p.158\t_11 c\obj\x86\Debug\t_11 c.pdb

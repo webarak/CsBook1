@@ -1,0 +1,4 @@
+F:\p_59\p_59\bin\Debug\p_59.exe
+F:\p_59\p_59\bin\Debug\p_59.pdb
+F:\p_59\p_59\obj\x86\Debug\p_59.exe
+F:\p_59\p_59\obj\x86\Debug\p_59.pdb

@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.146\t_18\bin\Release\t_18.exe
+F:\מדעי המחשב\p.146\t_18\bin\Release\t_18.pdb
+F:\מדעי המחשב\p.146\t_18\obj\x86\Release\t_18.exe
+F:\מדעי המחשב\p.146\t_18\obj\x86\Release\t_18.pdb

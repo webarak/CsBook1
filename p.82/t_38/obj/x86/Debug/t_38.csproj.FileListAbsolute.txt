@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.82\t_38\bin\Debug\t_38.exe
+F:\מדעי המחשב\p.82\t_38\bin\Debug\t_38.pdb
+F:\מדעי המחשב\p.82\t_38\obj\x86\Debug\t_38.exe
+F:\מדעי המחשב\p.82\t_38\obj\x86\Debug\t_38.pdb

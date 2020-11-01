@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.173-174\t_8\bin\Release\t_8.exe
+F:\מדעי המחשב\p.173-174\t_8\bin\Release\t_8.pdb
+F:\מדעי המחשב\p.173-174\t_8\obj\x86\Release\t_8.exe
+F:\מדעי המחשב\p.173-174\t_8\obj\x86\Release\t_8.pdb

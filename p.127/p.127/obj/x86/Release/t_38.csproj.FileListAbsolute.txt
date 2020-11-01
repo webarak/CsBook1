@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.127\p.127\bin\Release\p.127.exe
+F:\מדעי המחשב\p.127\p.127\bin\Release\p.127.pdb
+F:\מדעי המחשב\p.127\p.127\obj\x86\Release\p.127.exe
+F:\מדעי המחשב\p.127\p.127\obj\x86\Release\p.127.pdb

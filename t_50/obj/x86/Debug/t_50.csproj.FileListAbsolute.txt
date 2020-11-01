@@ -1,0 +1,4 @@
+F:\מדעי המחשב\t_50\bin\Debug\t_50.exe
+F:\מדעי המחשב\t_50\bin\Debug\t_50.pdb
+F:\מדעי המחשב\t_50\obj\x86\Debug\t_50.exe
+F:\מדעי המחשב\t_50\obj\x86\Debug\t_50.pdb

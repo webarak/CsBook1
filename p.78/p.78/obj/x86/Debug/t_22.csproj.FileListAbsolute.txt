@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.78\p.78\bin\Debug\p.78.exe
+F:\מדעי המחשב\p.78\p.78\bin\Debug\p.78.pdb
+F:\מדעי המחשב\p.78\p.78\obj\x86\Debug\p.78.exe
+F:\מדעי המחשב\p.78\p.78\obj\x86\Debug\p.78.pdb

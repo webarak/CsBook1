@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.69\p.69\bin\Debug\p.69.exe
+F:\מדעי המחשב\p.69\p.69\bin\Debug\p.69.pdb
+F:\מדעי המחשב\p.69\p.69\obj\x86\Debug\p.69.exe
+F:\מדעי המחשב\p.69\p.69\obj\x86\Debug\p.69.pdb

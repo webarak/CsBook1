@@ -1,0 +1,4 @@
+F:\מדעי המחשב\P. 112-113\t_7\bin\Debug\t_7.exe
+F:\מדעי המחשב\P. 112-113\t_7\bin\Debug\t_7.pdb
+F:\מדעי המחשב\P. 112-113\t_7\obj\x86\Debug\t_7.exe
+F:\מדעי המחשב\P. 112-113\t_7\obj\x86\Debug\t_7.pdb

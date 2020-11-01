@@ -1,0 +1,4 @@
+F:\מדעי המחשב\ex-31.10.18-DayAfter\t_AfterDay\bin\Debug\t_AfterDay.exe
+F:\מדעי המחשב\ex-31.10.18-DayAfter\t_AfterDay\bin\Debug\t_AfterDay.pdb
+F:\מדעי המחשב\ex-31.10.18-DayAfter\t_AfterDay\obj\x86\Debug\t_AfterDay.exe
+F:\מדעי המחשב\ex-31.10.18-DayAfter\t_AfterDay\obj\x86\Debug\t_AfterDay.pdb

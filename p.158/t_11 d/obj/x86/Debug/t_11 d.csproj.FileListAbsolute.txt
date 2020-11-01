@@ -1,0 +1,6 @@
+F:\מדעי המחשב\p.158\t_11 d\bin\Debug\t_11 d.exe
+F:\מדעי המחשב\p.158\t_11 d\bin\Debug\t_11 d.pdb
+F:\מדעי המחשב\p.158\t_11 d\obj\x86\Debug\t_11 d.exe
+F:\מדעי המחשב\p.158\t_11 d\obj\x86\Debug\t_11 d.pdb
+F:\מדעי המחשב\ספר א\p.158\t_11 d\obj\x86\Debug\t_11 d.exe
+F:\מדעי המחשב\ספר א\p.158\t_11 d\obj\x86\Debug\t_11 d.pdb

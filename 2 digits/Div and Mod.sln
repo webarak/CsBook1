@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 digits", "2 digits\2 digits.csproj", "{A48B411A-8416-41EC-BFC7-1BA562AE5DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 digits", "3 digits\3 digits.csproj", "{B9C7CF9E-95C1-4883-A087-BABA0688D6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oppositenumber", "oppositenumber\oppositenumber.csproj", "{7448243B-B7E0-4DC0-9F6D-99BB7DD1E5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48B411A-8416-41EC-BFC7-1BA562AE5DC9}.Debug|x86.ActiveCfg = Debug|x86
+		{A48B411A-8416-41EC-BFC7-1BA562AE5DC9}.Debug|x86.Build.0 = Debug|x86
+		{A48B411A-8416-41EC-BFC7-1BA562AE5DC9}.Release|x86.ActiveCfg = Release|x86
+		{A48B411A-8416-41EC-BFC7-1BA562AE5DC9}.Release|x86.Build.0 = Release|x86
+		{B9C7CF9E-95C1-4883-A087-BABA0688D6F9}.Debug|x86.ActiveCfg = Debug|x86
+		{B9C7CF9E-95C1-4883-A087-BABA0688D6F9}.Debug|x86.Build.0 = Debug|x86
+		{B9C7CF9E-95C1-4883-A087-BABA0688D6F9}.Release|x86.ActiveCfg = Release|x86
+		{B9C7CF9E-95C1-4883-A087-BABA0688D6F9}.Release|x86.Build.0 = Release|x86
+		{7448243B-B7E0-4DC0-9F6D-99BB7DD1E5D8}.Debug|x86.ActiveCfg = Debug|x86
+		{7448243B-B7E0-4DC0-9F6D-99BB7DD1E5D8}.Debug|x86.Build.0 = Debug|x86
+		{7448243B-B7E0-4DC0-9F6D-99BB7DD1E5D8}.Release|x86.ActiveCfg = Release|x86
+		{7448243B-B7E0-4DC0-9F6D-99BB7DD1E5D8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

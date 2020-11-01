@@ -1,0 +1,6 @@
+D:\ברק וייסלר\page 51\t_13\bin\Debug\t_13.exe
+D:\ברק וייסלר\page 51\t_13\bin\Debug\t_13.pdb
+D:\ברק וייסלר\page 51\t_13\obj\x86\Debug\t_13.exe
+D:\ברק וייסלר\page 51\t_13\obj\x86\Debug\t_13.pdb
+F:\ברק וייסלר\page 51\t_13\obj\x86\Debug\t_13.exe
+F:\ברק וייסלר\page 51\t_13\obj\x86\Debug\t_13.pdb

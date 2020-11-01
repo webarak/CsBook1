@@ -1,0 +1,4 @@
+F:\2 digits\3 digits\bin\Release\3 digits.exe
+F:\2 digits\3 digits\bin\Release\3 digits.pdb
+F:\2 digits\3 digits\obj\x86\Release\3 digits.exe
+F:\2 digits\3 digits\obj\x86\Release\3 digits.pdb

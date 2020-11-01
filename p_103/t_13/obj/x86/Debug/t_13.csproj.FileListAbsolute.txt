@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p_103\t_13\bin\Debug\t_13.exe
+F:\מדעי המחשב\p_103\t_13\bin\Debug\t_13.pdb
+F:\מדעי המחשב\p_103\t_13\obj\x86\Debug\t_13.exe
+F:\מדעי המחשב\p_103\t_13\obj\x86\Debug\t_13.pdb

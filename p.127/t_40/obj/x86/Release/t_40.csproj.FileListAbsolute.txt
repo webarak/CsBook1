@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.127\t_40\bin\Release\t_40.exe
+F:\מדעי המחשב\p.127\t_40\bin\Release\t_40.pdb
+F:\מדעי המחשב\p.127\t_40\obj\x86\Release\t_40.exe
+F:\מדעי המחשב\p.127\t_40\obj\x86\Release\t_40.pdb

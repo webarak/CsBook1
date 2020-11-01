@@ -1,0 +1,5 @@
+F:\מדעי המחשב\p.146\t_25 c\bin\Release\t_25 c.exe
+F:\מדעי המחשב\p.146\t_25 c\bin\Release\t_25 c.pdb
+F:\מדעי המחשב\p.146\t_25 c\obj\x86\Release\t_25 c.exe
+F:\מדעי המחשב\p.146\t_25 c\obj\x86\Release\t_25 c.pdb
+F:\מדעי המחשב\p.146\t_25 c\obj\x86\Release\t_25 c.csprojResolveAssemblyReference.cache

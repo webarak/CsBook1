@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.146\p.146\bin\Release\p.146.exe
+F:\מדעי המחשב\p.146\p.146\bin\Release\p.146.pdb
+F:\מדעי המחשב\p.146\p.146\obj\x86\Release\p.146.exe
+F:\מדעי המחשב\p.146\p.146\obj\x86\Release\p.146.pdb

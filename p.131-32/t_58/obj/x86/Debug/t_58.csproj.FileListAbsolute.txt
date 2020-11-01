@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.131-32\t_58\bin\Debug\t_58.exe
+F:\מדעי המחשב\p.131-32\t_58\bin\Debug\t_58.pdb
+F:\מדעי המחשב\p.131-32\t_58\obj\x86\Debug\t_58.exe
+F:\מדעי המחשב\p.131-32\t_58\obj\x86\Debug\t_58.pdb

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ממוצע המספרים", "דף_עבודה_בנושא_פעולות_21.1.19\ממוצע המספרים.csproj", "{5FECDC21-3DD3-41D7-BCFD-D8B31CC28BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "הערך הגדול מבין השניים.ארבע", "הערך הגדול מבין השניים\הערך הגדול מבין השניים.ארבע.csproj", "{E5530D9B-DE92-42B2-A7DD-8BB55712E89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "עצרת", "עצרת\עצרת.csproj", "{8ECC0C87-E55E-4F31-8176-2E6AA89BB7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "מספר בחזקת מספר", "מספר בחזקת מספר\מספר בחזקת מספר.csproj", "{5D76705F-7ECB-4762-93C3-4C1DA919E778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "סכום ספרות המספר", "סכום ספרות המספר\סכום ספרות המספר.csproj", "{91E00482-D51C-4266-9AE7-8EEBF5DA301C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "האם ספרה נמצאת במספר", "האם ספרה נמצאת במספר\האם ספרה נמצאת במספר.csproj", "{27A4047E-9F75-4520-AA3D-6C4DB397059A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "מספרים_ראשוניים", "מספרים_ראשוניים\מספרים_ראשוניים.csproj", "{E7910AB9-A523-4246-BB4E-0EFE4A93CD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FECDC21-3DD3-41D7-BCFD-D8B31CC28BEB}.Debug|x86.ActiveCfg = Debug|x86
+		{5FECDC21-3DD3-41D7-BCFD-D8B31CC28BEB}.Debug|x86.Build.0 = Debug|x86
+		{5FECDC21-3DD3-41D7-BCFD-D8B31CC28BEB}.Release|x86.ActiveCfg = Release|x86
+		{5FECDC21-3DD3-41D7-BCFD-D8B31CC28BEB}.Release|x86.Build.0 = Release|x86
+		{E5530D9B-DE92-42B2-A7DD-8BB55712E89E}.Debug|x86.ActiveCfg = Debug|x86
+		{E5530D9B-DE92-42B2-A7DD-8BB55712E89E}.Debug|x86.Build.0 = Debug|x86
+		{E5530D9B-DE92-42B2-A7DD-8BB55712E89E}.Release|x86.ActiveCfg = Release|x86
+		{E5530D9B-DE92-42B2-A7DD-8BB55712E89E}.Release|x86.Build.0 = Release|x86
+		{8ECC0C87-E55E-4F31-8176-2E6AA89BB7CA}.Debug|x86.ActiveCfg = Debug|x86
+		{8ECC0C87-E55E-4F31-8176-2E6AA89BB7CA}.Debug|x86.Build.0 = Debug|x86
+		{8ECC0C87-E55E-4F31-8176-2E6AA89BB7CA}.Release|x86.ActiveCfg = Release|x86
+		{8ECC0C87-E55E-4F31-8176-2E6AA89BB7CA}.Release|x86.Build.0 = Release|x86
+		{5D76705F-7ECB-4762-93C3-4C1DA919E778}.Debug|x86.ActiveCfg = Debug|x86
+		{5D76705F-7ECB-4762-93C3-4C1DA919E778}.Debug|x86.Build.0 = Debug|x86
+		{5D76705F-7ECB-4762-93C3-4C1DA919E778}.Release|x86.ActiveCfg = Release|x86
+		{5D76705F-7ECB-4762-93C3-4C1DA919E778}.Release|x86.Build.0 = Release|x86
+		{91E00482-D51C-4266-9AE7-8EEBF5DA301C}.Debug|x86.ActiveCfg = Debug|x86
+		{91E00482-D51C-4266-9AE7-8EEBF5DA301C}.Debug|x86.Build.0 = Debug|x86
+		{91E00482-D51C-4266-9AE7-8EEBF5DA301C}.Release|x86.ActiveCfg = Release|x86
+		{91E00482-D51C-4266-9AE7-8EEBF5DA301C}.Release|x86.Build.0 = Release|x86
+		{27A4047E-9F75-4520-AA3D-6C4DB397059A}.Debug|x86.ActiveCfg = Debug|x86
+		{27A4047E-9F75-4520-AA3D-6C4DB397059A}.Debug|x86.Build.0 = Debug|x86
+		{27A4047E-9F75-4520-AA3D-6C4DB397059A}.Release|x86.ActiveCfg = Release|x86
+		{27A4047E-9F75-4520-AA3D-6C4DB397059A}.Release|x86.Build.0 = Release|x86
+		{E7910AB9-A523-4246-BB4E-0EFE4A93CD33}.Debug|x86.ActiveCfg = Debug|x86
+		{E7910AB9-A523-4246-BB4E-0EFE4A93CD33}.Debug|x86.Build.0 = Debug|x86
+		{E7910AB9-A523-4246-BB4E-0EFE4A93CD33}.Release|x86.ActiveCfg = Release|x86
+		{E7910AB9-A523-4246-BB4E-0EFE4A93CD33}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

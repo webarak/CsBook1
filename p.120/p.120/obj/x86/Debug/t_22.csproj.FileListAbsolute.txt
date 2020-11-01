@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.120\p.120\bin\Debug\p.120.exe
+F:\מדעי המחשב\p.120\p.120\bin\Debug\p.120.pdb
+F:\מדעי המחשב\p.120\p.120\obj\x86\Debug\p.120.exe
+F:\מדעי המחשב\p.120\p.120\obj\x86\Debug\p.120.pdb

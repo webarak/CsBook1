@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.146\t_18\bin\Debug\t_18.exe
+F:\מדעי המחשב\p.146\t_18\bin\Debug\t_18.pdb
+F:\מדעי המחשב\p.146\t_18\obj\x86\Debug\t_18.exe
+F:\מדעי המחשב\p.146\t_18\obj\x86\Debug\t_18.pdb

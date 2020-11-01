@@ -1,0 +1,4 @@
+F:\מדעי המחשב\p.184-185\t_28\bin\Release\t_28.exe
+F:\מדעי המחשב\p.184-185\t_28\bin\Release\t_28.pdb
+F:\מדעי המחשב\p.184-185\t_28\obj\x86\Release\t_28.exe
+F:\מדעי המחשב\p.184-185\t_28\obj\x86\Release\t_28.pdb
